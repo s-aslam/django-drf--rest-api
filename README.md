@@ -1,4 +1,4 @@
-# Django-DRF-Rest-API
+# Django (DRF) Rest API
 How to create rest api in django using class based views.
 
 # Getting Started
