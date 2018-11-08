@@ -1,6 +1,8 @@
 # Django (DRF) Rest API
 How to create rest api in django using class based views.
 
+this project contains basic example of **login**, **logout** & **CRUD**.
+
 # Getting Started
 For help getting started with django, view online documentation.
 
